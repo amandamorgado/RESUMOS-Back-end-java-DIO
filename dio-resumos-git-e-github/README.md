@@ -3,7 +3,7 @@
 
 
 
-Baseado nos conteúdos passados no curso de versionamento de código com o git e o git hub, oferecido pelo \[DIO](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1).
+Baseado nos conteúdos passados no curso de versionamento de código com o git e o git hub, oferecido pelo [DIO](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1).
 
 
 
@@ -22,8 +22,8 @@ Baseado nos conteúdos passados no curso de versionamento de código com o git e
 
 | aulas | resumo | link|
 |---|---|---|
-|1- clonando repositórios | criar (mkdir); clonar (git clone); iniciar (git init) | \[github](https://docs.github.com/pt/get-started/start-your-journey/uploading-a-project-to-github) e \[dio](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1)
-|2 - Read.me|criando, editando e enviando para o github | \[github](https://docs.github.com/pt/get-started/writing-on-github) e \[dio](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1) |
+|1- clonando repositórios | criar (mkdir); clonar (git clone); iniciar (git init) | [github](https://docs.github.com/pt/get-started/start-your-journey/uploading-a-project-to-github) e [dio](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1)
+|2 - Read.me|criando, editando e enviando para o github | [github](https://docs.github.com/pt/get-started/writing-on-github) e [dio](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1) |
 
 
 
