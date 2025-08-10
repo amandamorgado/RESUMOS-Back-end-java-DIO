@@ -44,5 +44,5 @@ Veja abaixo os principais comandos do git e github
 | 'git commit -m' + "descrição do commit" | git bash | enviar o commit|
 |'git reset' + ('-soft', '-mixed' ou -hard') + número do commit ou arquivo | git bash | o reset volta a alteração. Tipos: soft - retorna para a última etapa (antes do commit, antes do add...), mixed - retorna duas antes, hard - exclui o commit e o arquivo.|
 |'git restore' + nome do arquivo | git bash | volta a alteração que havia sido excluída |
-|
+
 
