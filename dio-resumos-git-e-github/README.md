@@ -32,8 +32,6 @@ Baseado nos conteúdos passados no curso de versionamento de código com o git e
 Veja abaixo os principais comandos do git e github
 
 | Comando | modo | função|
-
 |---|---|---|
-
 |'git clone' + url + nome| inserir isso no git com a url do repositório que você quer clonar  | Cria uma versão local para o código que você está usando
 
