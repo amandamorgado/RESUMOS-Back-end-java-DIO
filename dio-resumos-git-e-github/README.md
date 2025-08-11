@@ -27,7 +27,7 @@ Baseado nos conteúdos passados no curso de versionamento de código com o git e
 |3- desfazendo alterações | Desfazer alterações nos arquivos e commits, git restore e git reset (tipo: soft, mixed, hard)| [git - reset](https://git-scm.com/docs/git-reset), [git - restore](https://git-scm.com/docs/git-restore) e [DIO](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/3f9f2336-6fd5-44cb-ba39-d1a4f6448023?autoplay=1)|
 |4- enviando para o rep remoto | para enviar ao git hub crie um diretório no git hub, coloca 'git remote add origin' (origin ou o nome que você quiser) + url do seu rep no github e para enviar os commits é colocar 'git push -u origin main' (origin é o rep remoto e main é o rep local) | [Github](https://docs.github.com/pt/get-started/using-git/pushing-commits-to-a-remote-repository), [Git](https://git-scm.com/docs/git-remote) e [DIO](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/dd17c56e-2327-493c-942a-358a49a26549?autoplay=1)| 
 | 5- trabalhando com branches | é possível adicionar conteúdo em diferentes branchs, tipo atualizar uma teste e depois incluir as alterações na main. comandos: 'git branch', 'git branch - d' + nome da branch a deletar, 'git merge' + nome da branch que ira mesclar com a que está aberta, 'git checkout' + mais nome da branch em que você vai. As vezes podem ocorrer conflitos e você deve escolher quais manter| [Git](https://git-scm.com/docs/git-branch) e [DIO](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/2c7fd2b1-e7c4-4947-9b07-ffcbfb4bd689?autoplay=1)|
-|6- extra sobre branchs|
+|6- extra sobre branchs| 'git pull' é uma junção do 'fetch' que baixa os arquivos e do merge. É possível ver a diferença entre as branchs com 'git diff'. No git clone você pode escolhar qual branch clonar, basta colocar o nome da branch e '--single-branch'|[Git](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) e [DIO](https://web.dio.me/track/santander-2025-java-back-end/course/406684a4-396d-4160-94b9-ead934e18564/learning/80018fab-daac-4917-8527-a6be2e0c3cf0?autoplay=1)|
 
 
 
@@ -38,7 +38,7 @@ Veja abaixo os principais comandos do git e github
 | Comando | modo | função|
 |---|---|---|
 |git init | colocar no terminal do git bash | incializa a sua pasta como um repositório|
-|'git clone' + url + nome| inserir isso no git com a url do repositório que você quer clonar  | Cria uma versão local para o código que você está usando|
+|'git clone' + url + --branch + nome da branch + nome local| inserir isso no git com a url do repositório que você quer clonar  | Cria uma versão local para o código que você está usando, é possível escolher todas ou apenas uma branch|
 | 'cd' + nome da pasta que quer abrir ou 'cd ..' para voltar uma pasta | inserir no terminal do git bash | abre e volta em pastas|
 |'mkdir' + nome da pasta | inserir no terminal do git bash | cria uma nova pasta dentro da pasta que você estiver usando|
 |'git touch' + nome do local e arquivo (resumos/aula-01.md) | git bash | cria um novo arquivo|
