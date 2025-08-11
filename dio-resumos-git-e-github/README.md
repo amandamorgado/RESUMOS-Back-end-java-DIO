@@ -48,9 +48,10 @@ Veja abaixo os principais comandos do git e github
 | 'git commit -m' + "descrição do commit" | inserir no terminal do git bash | enviar o commit|
 |'git reset' + ('-soft', '-mixed' ou -hard') + número do commit ou arquivo | inserir no terminal do git bash | o reset volta a alteração. Tipos: soft - retorna para a última etapa (antes do commit, antes do add...), mixed - retorna duas antes, hard - exclui o commit e o arquivo.|
 |'git restore' + nome do arquivo | inserir no terminal do git bash | volta a alteração que havia sido excluída |
-| 'eco' +"nome do arquivo que quer copiar" + > + "nome do novo arquivo" | inserir terminal do git bash| cria um novo arquivo com base no anterior|
+| 'echo' +"nome do arquivo que quer copiar" + > + "nome do novo arquivo" | inserir terminal do git bash| cria um novo arquivo com base no anterior|
 |'git checkout' + nome da branch | terminal do git bash ao estar logado em uma branch | ele sai da branch que você está e vai para a branch que colocou o nome|
-| 'git push' | inserir no terminal do git bash após ter conectado seu rep com um rep remoto | envia os commits do rep remoto para o local|
-| 'git pull' (junção de 'git fetch' + 'git merge' | inserir no terminal do git bash após ter conectado seu rep com um rep remoto e feito alterações no remoto | ele traz os arquivos que estão no rep remoto (fetch) e já mescla (merge)|
+| 'git push origen main' | inserir no terminal do git bash após ter conectado seu rep com um rep remoto | envia os commits do rep remoto para o local|
+| 'git pull origen main' (junção de 'git fetch' + 'git merge' | inserir no terminal do git bash após ter conectado seu rep com um rep remoto e feito alterações no remoto | ele traz os arquivos que estão no rep remoto (fetch) e já mescla (merge)|
+| 'git diff origen/main' | inserir no terminal do git bash ao trabalhar com duas ou mais branchs | apresenta diferença entre as branches|
 
 
