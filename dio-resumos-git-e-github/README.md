@@ -50,5 +50,7 @@ Veja abaixo os principais comandos do git e github
 |'git restore' + nome do arquivo | inserir no terminal do git bash | volta a alteração que havia sido excluída |
 | 'eco' +"nome do arquivo que quer copiar" + > + "nome do novo arquivo" | inserir terminal do git bash| cria um novo arquivo com base no anterior|
 |'git checkout' + nome da branch | terminal do git bash ao estar logado em uma branch | ele sai da branch que você está e vai para a branch que colocou o nome|
+| 'git push' | inserir no terminal do git bash após ter conectado seu rep com um rep remoto | envia os commits do rep remoto para o local|
+| 'git pull' (junção de 'git fetch' + 'git merge' | inserir no terminal do git bash após ter conectado seu rep com um rep remoto e feito alterações no remoto | ele traz os arquivos que estão no rep remoto (fetch) e já mescla (merge)|
 
 
